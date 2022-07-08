@@ -1,0 +1,4 @@
+rootProject.name = 'fleetman'
+include 'fleet-api-gateway'
+include 'fleet-position-tracker'
+include 'fleet-position-simulator'
